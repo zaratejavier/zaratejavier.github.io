@@ -1,39 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2414c6b2-5e1c-4f16-ba3a-83f595d42c4d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/HeaderIMG.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jav-air.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/.editorconfig" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.htaccess" afterPath="" />
+    <list default="true" id="2414c6b2-5e1c-4f16-ba3a-83f595d42c4d" name="Default" comment="added theme">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/agency.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/css/myStyle.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/about/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/about/2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/about/3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/about/4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/header-bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/logos/creative-market.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/logos/designmodo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/logos/envato.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/logos/themeforest.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/map-image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/01-full.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/01-thumbnail.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/02-full.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/02-thumbnail.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/03-full.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/03-thumbnail.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/04-full.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/04-thumbnail.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/05-full.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/05-thumbnail.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/06-full.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/06-thumbnail.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/team/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/team/2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/team/3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/agency.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/agency.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/contact_me.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/js/jqBootstrapValidation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/mail/contact_me.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/_contact.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/_footer.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/_global.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/_masthead.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/_mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/_navbar.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/_portfolio.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/_services.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/_team.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/_timeline.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scss/agency.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-grid.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap-reboot.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.bundle.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/animated.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/bordered-pulled.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/core.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/fixed-width.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/font-awesome.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/icons.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/larger.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/list.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/mixins.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/path.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/rotated-flipped.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/screen-reader.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/stacked.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/less/variables.less" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_animated.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_bordered-pulled.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_core.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_fixed-width.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_icons.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_larger.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_list.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_mixins.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_path.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_rotated-flipped.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_screen-reader.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_stacked.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/font-awesome/scss/font-awesome.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.compatibility.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery-easing/jquery.easing.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/404.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/browserconfig.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/css/normalize.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/doc/TOC.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/doc/css.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/doc/extend.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/doc/faq.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/doc/html.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/doc/js.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/doc/misc.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/doc/usage.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/.gitignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/plugins.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/jquery-3.2.1.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/js/vendor/modernizr-3.5.0.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/site.webmanifest" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tile-wide.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/tile.png" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -50,8 +115,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1185">
-              <caret line="120" column="0" lean-forward="true" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+            <state relative-caret-position="435">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -216,7 +281,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1513744105946</updated>
-      <workItem from="1513744108837" duration="4783000" />
+      <workItem from="1513744108837" duration="5129000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1513744842031</created>
@@ -225,17 +290,23 @@
       <option name="project" value="LOCAL" />
       <updated>1513744842031</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added theme">
+      <created>1513749715875</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1513749715875</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4783000" />
+    <option name="totallyTimeSpent" value="5129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1400" height="833" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -262,7 +333,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="added theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="added theme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -449,8 +521,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1185">
-          <caret line="120" column="0" lean-forward="true" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
+        <state relative-caret-position="435">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
