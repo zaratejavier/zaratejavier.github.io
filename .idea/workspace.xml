@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2414c6b2-5e1c-4f16-ba3a-83f595d42c4d" name="Default" comment="">
+    <list default="true" id="2414c6b2-5e1c-4f16-ba3a-83f595d42c4d" name="Default" comment="adding image">
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/moab_2088.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/img/about/ME.jpg" afterPath="$PROJECT_DIR$/img/about/5.jpg" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="355" column="71" lean-forward="false" selection-start-line="355" selection-start-column="71" selection-end-line="355" selection-end-column="71" />
+            <state relative-caret-position="397">
+              <caret line="150" column="16" lean-forward="true" selection-start-line="150" selection-start-column="16" selection-end-line="150" selection-end-column="16" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -91,7 +91,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
+    <option name="x" value="15" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="833" />
@@ -136,6 +136,12 @@
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javierzarate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javierzarate" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -150,6 +156,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/portfolio" />
       <recent name="$PROJECT_DIR$/img/about" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/css" />
@@ -188,7 +195,7 @@
       <option name="presentableId" value="Default" />
       <updated>1513744105946</updated>
       <workItem from="1513744108837" duration="7953000" />
-      <workItem from="1515040925987" duration="850000" />
+      <workItem from="1515040925987" duration="1281000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1513744842031</created>
@@ -295,14 +302,21 @@
       <option name="project" value="LOCAL" />
       <updated>1515041945761</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="adding image">
+      <created>1515042040104</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1515042040104</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8803000" />
+    <option name="totallyTimeSpent" value="9234000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="23" width="1400" height="833" extended-state="0" />
+    <frame x="15" y="23" width="1400" height="833" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -514,8 +528,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="355" column="71" lean-forward="false" selection-start-line="355" selection-start-column="71" selection-end-line="355" selection-end-column="71" />
+        <state relative-caret-position="397">
+          <caret line="150" column="16" lean-forward="true" selection-start-line="150" selection-start-column="16" selection-end-line="150" selection-end-column="16" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
