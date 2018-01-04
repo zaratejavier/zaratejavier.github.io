@@ -20,8 +20,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="357" column="56" lean-forward="false" selection-start-line="357" selection-start-column="56" selection-end-line="357" selection-end-column="56" />
+            <state relative-caret-position="420">
+              <caret line="355" column="75" lean-forward="false" selection-start-line="355" selection-start-column="75" selection-end-line="355" selection-end-column="75" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -180,7 +180,7 @@
       <option name="presentableId" value="Default" />
       <updated>1513744105946</updated>
       <workItem from="1513744108837" duration="7953000" />
-      <workItem from="1515040925987" duration="458000" />
+      <workItem from="1515040925987" duration="536000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1513744842031</created>
@@ -266,11 +266,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515041557117</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="adding image">
+      <created>1515041630059</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1515041630059</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8411000" />
+    <option name="totallyTimeSpent" value="8489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1400" height="833" extended-state="0" />
@@ -482,8 +489,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="357" column="56" lean-forward="false" selection-start-line="357" selection-start-column="56" selection-end-line="357" selection-end-column="56" />
+        <state relative-caret-position="420">
+          <caret line="355" column="75" lean-forward="false" selection-start-line="355" selection-start-column="75" selection-end-line="355" selection-end-column="75" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
