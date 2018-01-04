@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2414c6b2-5e1c-4f16-ba3a-83f595d42c4d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/img/ME.jpg" afterPath="$PROJECT_DIR$/img/about/ME.jpg" />
+      <change beforePath="$PROJECT_DIR$/img/about/ME.jpg" afterPath="$PROJECT_DIR$/img/about/5.jpg" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -22,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="241">
-              <caret line="355" column="72" lean-forward="false" selection-start-line="355" selection-start-column="72" selection-end-line="355" selection-end-column="72" />
+              <caret line="355" column="71" lean-forward="false" selection-start-line="355" selection-start-column="71" selection-end-line="355" selection-end-column="71" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -188,7 +188,7 @@
       <option name="presentableId" value="Default" />
       <updated>1513744105946</updated>
       <workItem from="1513744108837" duration="7953000" />
-      <workItem from="1515040925987" duration="759000" />
+      <workItem from="1515040925987" duration="850000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1513744842031</created>
@@ -288,11 +288,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515041708838</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="adding image">
+      <created>1515041945761</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1515041945761</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8712000" />
+    <option name="totallyTimeSpent" value="8803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1400" height="833" extended-state="0" />
@@ -500,7 +507,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/about/ME.jpg">
+    <entry file="file://$PROJECT_DIR$/img/about/5.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -508,7 +515,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
-          <caret line="355" column="72" lean-forward="false" selection-start-line="355" selection-start-column="72" selection-end-line="355" selection-end-column="72" />
+          <caret line="355" column="71" lean-forward="false" selection-start-line="355" selection-start-column="71" selection-end-line="355" selection-end-column="71" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
