@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2414c6b2-5e1c-4f16-ba3a-83f595d42c4d" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/img/team/lookme_2033.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -20,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-765">
-              <caret line="127" column="92" lean-forward="false" selection-start-line="127" selection-start-column="92" selection-end-line="127" selection-end-column="92" />
+            <state relative-caret-position="377">
+              <caret line="355" column="85" lean-forward="false" selection-start-line="355" selection-start-column="85" selection-end-line="355" selection-end-column="85" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -147,6 +148,12 @@
               <item name="img" type="462c0819:PsiDirectoryNode" />
               <item name="portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javierzarate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javierzarate" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -161,11 +168,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/team" />
       <recent name="$PROJECT_DIR$/img/portfolio" />
       <recent name="$PROJECT_DIR$/img/about" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/css" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -200,7 +207,7 @@
       <option name="presentableId" value="Default" />
       <updated>1513744105946</updated>
       <workItem from="1513744108837" duration="7953000" />
-      <workItem from="1515040925987" duration="2431000" />
+      <workItem from="1515040925987" duration="2655000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1513744842031</created>
@@ -335,11 +342,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515044078588</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="sentence">
+      <created>1515044413869</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1515044413869</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10384000" />
+    <option name="totallyTimeSpent" value="10608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="15" y="23" width="1400" height="833" extended-state="0" />
@@ -380,7 +394,8 @@
     <MESSAGE value="adding photo" />
     <MESSAGE value="adding name" />
     <MESSAGE value="adding image" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding image" />
+    <MESSAGE value="sentence" />
+    <option name="LAST_COMMIT_MESSAGE" value="sentence" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -559,8 +574,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-765">
-          <caret line="127" column="92" lean-forward="false" selection-start-line="127" selection-start-column="92" selection-end-line="127" selection-end-column="92" />
+        <state relative-caret-position="377">
+          <caret line="355" column="85" lean-forward="false" selection-start-line="355" selection-start-column="85" selection-end-line="355" selection-end-column="85" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
