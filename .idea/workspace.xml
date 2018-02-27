@@ -21,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="447">
-              <caret line="160" column="63" lean-forward="false" selection-start-line="160" selection-start-column="63" selection-end-line="160" selection-end-column="63" />
+              <caret line="160" column="42" lean-forward="true" selection-start-line="160" selection-start-column="42" selection-end-line="160" selection-end-column="42" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -173,7 +173,7 @@
       <workItem from="1513744108837" duration="7953000" />
       <workItem from="1515040925987" duration="3132000" />
       <workItem from="1515468535653" duration="435000" />
-      <workItem from="1519458091336" duration="3753000" />
+      <workItem from="1519458091336" duration="3827000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1513744842031</created>
@@ -392,11 +392,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519706737595</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="bold">
+      <created>1519709885868</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1519709885868</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15273000" />
+    <option name="totallyTimeSpent" value="15347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1415" height="833" extended-state="0" />
@@ -446,7 +453,8 @@
     <MESSAGE value="added where to go" />
     <MESSAGE value="added location to picture" />
     <MESSAGE value="added a line" />
-    <option name="LAST_COMMIT_MESSAGE" value="added a line" />
+    <MESSAGE value="bold" />
+    <option name="LAST_COMMIT_MESSAGE" value="bold" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -675,7 +683,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="447">
-          <caret line="160" column="63" lean-forward="false" selection-start-line="160" selection-start-column="63" selection-end-line="160" selection-end-column="63" />
+          <caret line="160" column="42" lean-forward="true" selection-start-line="160" selection-start-column="42" selection-end-line="160" selection-end-column="42" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
